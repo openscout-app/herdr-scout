@@ -11,7 +11,7 @@
 
 Ask your Scout agents from any [herdr](https://herdr.dev) pane, send a selection to one, and keep the Scout feed beside your work.
 
-[Install](#install) · [First ask](#first-ask) · [OpenScout](https://openscout.app) · [All integrations](https://github.com/oscout)
+[Install](#install) · [First ask](#first-ask) · [OpenScout](https://openscout.app) · [All integrations](https://github.com/openscout-app)
 
 <!-- scout-illustration:start -->
 <p align="center">
@@ -26,7 +26,7 @@ Ask your Scout agents from any [herdr](https://herdr.dev) pane, send a selection
 ## Install
 
 ```bash
-herdr plugin install oscout/herdr-scout
+herdr plugin install openscout-app/herdr-scout
 ```
 
 Requires herdr 0.9.0+, [Bun](https://bun.sh), and Scout itself:
